@@ -8,13 +8,13 @@ Long live the blockchain revolution!
 
 ### HTML
 
-![HTML screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-html.PNG)
+![HTML screenshot](https://github.com/MichaelMacaulay/Satoshi-Nakamoto_Theme/blob/main/html.PNG)
 
 ### SCSS
 
-![Sass screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-scss.PNG)
+![Sass screenshot](https://github.com/MichaelMacaulay/Satoshi-Nakamoto_Theme/blob/main/scss.PNG)
 
 ### JavaScript
 
-![JavaScript screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-js.PNG)
+![JavaScript screenshot](https://github.com/MichaelMacaulay/Satoshi-Nakamoto_Theme/blob/main/js.PNG)
 
