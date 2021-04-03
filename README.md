@@ -8,13 +8,14 @@ Vires in numeris.
 
 ### HTML
 
-![HTML screenshot](https://github.com/MichaelMacaulay/Satoshi-Nakamoto_Theme/blob/main/html.PNG)
+![html screenshot](https://user-images.githubusercontent.com/56690114/113480929-e1bf8e80-9464-11eb-83a4-e50a8be56689.PNG)
+
 
 ### SCSS
 
-![Sass screenshot](https://github.com/MichaelMacaulay/Satoshi-Nakamoto_Theme/blob/main/scss.PNG)
+![scss screenshot](https://user-images.githubusercontent.com/56690114/113480932-e4ba7f00-9464-11eb-83ba-bfc30400b2e7.PNG)
 
 ### JavaScript
 
-![JavaScript screenshot](https://github.com/MichaelMacaulay/Satoshi-Nakamoto_Theme/blob/main/js.PNG)
+![JavaScript screenshot](https://user-images.githubusercontent.com/56690114/113480930-e2f0bb80-9464-11eb-9635-dc133047f557.PNG)
 
